@@ -36,6 +36,7 @@ laravel10-docker-compose
 
 ### เข้าฐานข้อมูล phpMyAdmin
 - URL: http://localhost:8080
+- Server : `db`
 - Username: `root`
 - Password: `root`
 - Database: `satoshi`
