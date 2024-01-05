@@ -16,7 +16,7 @@ laravel10-docker-compose
 - Vite v4.4.9
 
 # ติดตั้ง docker ด้วยนะคลิกที่ลิงค์ด้านล่างนี้เลย
-- Stable version of [Docker](https://docs.docker.com/engine/install/)
+- Stable version of [Docker](https://docs.docker.com/engine/install/) ถ้ามีการติดตั้ง docker ไว้ที่เครื่องแล้วไม่ต้องติดตั้งเพิ่ม
 
 # การ Deploy
 
