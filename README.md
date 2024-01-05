@@ -3,7 +3,7 @@
 # laravel-satoshi
 laravel10-docker-compose
 
-# สิ่งที่มีให้สำหรับการใช้งานเบื้องต้น
+# สิ่งที่เตรียมไว้ให้สำหรับการใช้งานเบื้องต้น
 - Laravel v10
 - PHP v8.2+
 - MySQL v8.1
